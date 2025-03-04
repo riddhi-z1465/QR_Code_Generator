@@ -19,7 +19,9 @@ A simple and interactive QR Code Generator application built using Python. This 
 
 ## 🎨 Screenshots of the UI
 
-![QR Code Generator UI](/Users/riddhizunjarrao/Desktop/QRscreenshot.png)
+<div align="center">
+<img width="411" alt="QRscreenshot" src="https://github.com/user-attachments/assets/f01caeb2-6fdd-49fe-9eba-95b4ad7a660d" />
+</div>
 
 ## 🚀 How to Run the Project
 
