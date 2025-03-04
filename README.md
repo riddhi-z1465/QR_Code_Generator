@@ -19,6 +19,5 @@ A simple and interactive QR Code Generator application built using Python. This 
 
 ## 🎨 Screenshots of the UI
 
-![QR Code Generator UI](/Users/riddhizunjarrao/Desktop/QR%20screenshot.png)
-
+![QR Code Generator UI](/Users/riddhizunjarrao/Desktop/QRscreenshot.png)
 
