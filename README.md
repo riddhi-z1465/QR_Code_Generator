@@ -27,5 +27,5 @@ A simple and interactive QR Code Generator application built using Python. This 
 
 1. **Clone the Repository**: 
    ```bash
-   git clone https://github.com/yourusername/qrcode-generator.git
-   cd qrcode-generator
+   git clone https://github.com/riddhi-z1465/QR_Code_Generator.git
+   
